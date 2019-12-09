@@ -1,0 +1,15 @@
+
+
+
+The next step in the process with Yesware is the take-home coding exercise. This is an opportunity to showcase your coding skills in action! 
+
+There are two files attached that you'll need to for the activity: one is the instruction set and the other is the data file. The instructions are meant to be as straightforward as possible - so no trick questions or anything, just use your best judgement. 
+
+You can choose the language you use to complete the exercise. It's not officially timed but typically takes folks about 1-2 hours to complete. Make sure that your assignment is complete and that you’ve optimized it for performance, even if you’ve exceeded the two hours.
+
+Once you're finished, please send back your submission, including the output, and the Yesware team will review it asap. You may not be able to attach the file containing the code, so you may want to create and share a Google drive folder containing the files.
+
+The “next steps” following the successful completion of the assignment would be an ~45-minute phone interview with one of the Hiring Managers. 
+
+Thanks for taking the time on this assignment. Have fun and good luck!
+
