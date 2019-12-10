@@ -43,7 +43,6 @@ Lists of Specially Unique & Modified Names
 Take the first N names from the file where both of the following are true:
 
 * No previous name has the same first name
-* No previous name has the same last name
 
   For example, consider these names:
 
