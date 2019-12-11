@@ -87,9 +87,9 @@ def main():
     print "5. Most Common Last Name: " + most_common_last_name + " (appears " + most_common_last_name_count + " times)"
     print "6. " + str(n) + " Specifically Unique Names: " + specifically_unique_string
     print "7. " + str(n) + " Modified Names: " + modified_names_string
-    print("\nStatistics: ")
-    print("  Time to Run: " + total_time + " milliseconds")
-    print("  Size of Data File: " + str(line_count) + " lines")
+    print "\nStatistics: "
+    print "  Time to Run: " + total_time + " milliseconds"
+    print "  Size of Data File: " + str(line_count) + " lines"
 
 
 def get_specifically_unqiue_names(specifically_unique_list_length_n):

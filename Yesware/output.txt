@@ -1,0 +1,11 @@
+1. Unique Count of Full Names: 48294
+2. Unique Count of First Names: 3006
+3. Unique Count of Last Names: 467
+4. Most Common First Name: Stephania (appears 30 times)
+5. Most Common Last Name: Barton (appears 142 times)
+6. 25 Specifically Unique Names: Braeden Donnelly, Tiana Mertz, Dewayne Swaniawski, Jaquan Heathcote, Keely Nader, Chaim Bartoletti, Kari Runolfsson, Elise Auer, Reta Herzog, Brielle Murray, Justice Sauer, Dillan Flatley, Herman Larkin, Davion Bashirian, Jeff Schimmel, Jeffry Blanda, Nelda Schinner, Connie Koch, Laisha Moore, Fanny Grimes, Roselyn Welch, Theresa Jewess, Kacie Adams, Ethyl Von, Pearl Abernathy
+7. 25 Modified Names: Braeden Mertz, Tiana Swaniawski, Dewayne Heathcote, Jaquan Nader, Keely Bartoletti, Chaim Runolfsson, Kari Auer, Elise Herzog, Reta Murray, Brielle Sauer, Justice Flatley, Dillan Larkin, Herman Bashirian, Davion Schimmel, Jeff Blanda, Jeffry Schinner, Nelda Koch, Connie Moore, Laisha Grimes, Fanny Welch, Roselyn Jewess, Theresa Adams, Kacie Von, Ethyl Abernathy, Pearl Donnelly
+
+Statistics:
+  Time to Run: 170 milliseconds
+  Size of Data File: 100000 lines
